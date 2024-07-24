@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLFirstProject", "XMLFirstProject.csproj", "{BAE5AFD7-E6F2-44B8-AA43-9FBD16909473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{C2E748DE-4BF8-43C2-8D12-799E70DF1BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE5AFD7-E6F2-44B8-AA43-9FBD16909473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE5AFD7-E6F2-44B8-AA43-9FBD16909473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE5AFD7-E6F2-44B8-AA43-9FBD16909473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE5AFD7-E6F2-44B8-AA43-9FBD16909473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC8E8A7-7AC8-43CC-BAB8-1D4A859115A9}
+	EndGlobalSection
+EndGlobal

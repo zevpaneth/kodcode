@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.AssemblyInfo.cs
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Xml2\bin\Debug\net8.0\Xml2.exe
+C:\Users\USER\source\repos\Xml2\bin\Debug\net8.0\Xml2.deps.json
+C:\Users\USER\source\repos\Xml2\bin\Debug\net8.0\Xml2.runtimeconfig.json
+C:\Users\USER\source\repos\Xml2\bin\Debug\net8.0\Xml2.dll
+C:\Users\USER\source\repos\Xml2\bin\Debug\net8.0\Xml2.pdb
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.dll
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\refint\Xml2.dll
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.pdb
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\Xml2.genruntimeconfig.cache
+C:\Users\USER\source\repos\Xml2\obj\Debug\net8.0\ref\Xml2.dll

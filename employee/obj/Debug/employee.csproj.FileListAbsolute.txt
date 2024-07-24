@@ -1,0 +1,17 @@
+C:\_idf\employee\bin\Debug\employee.exe.config
+C:\_idf\employee\bin\Debug\employee.exe
+C:\_idf\employee\bin\Debug\employee.pdb
+C:\_idf\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\_idf\employee\obj\Debug\employee.Form1.resources
+C:\_idf\employee\obj\Debug\employee.Properties.Resources.resources
+C:\_idf\employee\obj\Debug\employee.csproj.GenerateResource.cache
+C:\_idf\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\_idf\employee\obj\Debug\employee.exe
+C:\_idf\employee\obj\Debug\employee.pdb
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.Form1.resources
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.exe
+C:\Users\USER\source\repos\_idf\employee\obj\Debug\employee.pdb

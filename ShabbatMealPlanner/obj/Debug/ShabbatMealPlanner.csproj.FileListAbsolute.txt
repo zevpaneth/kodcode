@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\bin\Debug\ShabbatMealPlanner.exe.config
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\bin\Debug\ShabbatMealPlanner.exe
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\bin\Debug\ShabbatMealPlanner.pdb
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.Form1.resources
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.Properties.Resources.resources
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.exe
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.pdb
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.CategoryEditor.resources
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.OrderSummary.resources
+C:\Users\USER\source\repos\_idf\ShabbatMealPlanner\obj\Debug\ShabbatMealPlanner.Guest.resources

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|c:\\users\\user\\source\\repos\\_idf\\shabbatmealplanner\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\smpcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:smpcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\categoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:categoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\categoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:categoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\guest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:guest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCB5DB-CC08-45EA-A429-3C33585DD257}|Solution Items{00DCB5DB-CC08-45EA-A429-3C33585DD257}|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\SqlQuery_1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{00DCB5DB-CC08-45EA-A429-3C33585DD257}|Solution Items{00DCB5DB-CC08-45EA-A429-3C33585DD257}|solutionrelative:SqlQuery_1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A365FB4-D599-44D7-920C-DC222E6CC466}|ShabbatMealPlanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlQuery_1.sql",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\SqlQuery_1.sql",
+              "RelativeDocumentMoniker": "SqlQuery_1.sql",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\SqlQuery_1.sql",
+              "RelativeToolTip": "SqlQuery_1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T08:39:07.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderSummary.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\OrderSummary.cs",
+              "RelativeDocumentMoniker": "OrderSummary.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\OrderSummary.cs",
+              "RelativeToolTip": "OrderSummary.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:50:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\DBConnection.cs",
+              "RelativeToolTip": "DBConnection.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:30:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryEditor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\CategoryEditor.cs",
+              "RelativeDocumentMoniker": "CategoryEditor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\CategoryEditor.cs",
+              "RelativeToolTip": "CategoryEditor.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAEwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:27:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryEditor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\CategoryEditor.cs",
+              "RelativeDocumentMoniker": "CategoryEditor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\CategoryEditor.cs [Design]",
+              "RelativeToolTip": "CategoryEditor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:25:52.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderSummary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\OrderSummary.cs",
+              "RelativeDocumentMoniker": "OrderSummary.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\OrderSummary.cs [Design]",
+              "RelativeToolTip": "OrderSummary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:25:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Guest.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.Designer.cs",
+              "RelativeDocumentMoniker": "Guest.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.Designer.cs",
+              "RelativeToolTip": "Guest.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:51:23.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMPControler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\SMPControler.cs",
+              "RelativeDocumentMoniker": "SMPControler.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\SMPControler.cs",
+              "RelativeToolTip": "SMPControler.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwHYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:43:20.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:37:40.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:32:49.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:32:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:32:31.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\_idf\\ShabbatMealPlanner\\Guest.cs [Design]",
+              "RelativeToolTip": "Guest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:32:14.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
